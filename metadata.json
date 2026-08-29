@@ -1,0 +1,6 @@
+{
+  "name": "CircuitBazaar",
+  "description": "India's premier electronics marketplace for smartphones, laptops, smart appliances, gaming gear, wearables, AR room try-out, and certified refurbished gadgets with warranty.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
